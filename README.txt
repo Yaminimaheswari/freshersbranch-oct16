@@ -1,1 +1,1 @@
-Assignments(CSS,HTML) have to completed in time
+Assignments(CSS,HTML,JSS) have to completed in time
