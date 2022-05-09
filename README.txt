@@ -1,1 +1,1 @@
-Assignments have to completed in time
+Assignments(CSS,HTML) have to completed in time
