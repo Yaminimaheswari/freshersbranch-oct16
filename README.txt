@@ -1,1 +1,1 @@
-Assignments have to completed
+Assignments have to completed in time
